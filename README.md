@@ -42,5 +42,5 @@ Set tb_uart_loopback.v as the top module for simulation
 Run behavioral simulation
 Observe waveform to verify transmission and reception
 
-
+Author:
 Lavraj Vatsh
